@@ -1,0 +1,811 @@
+{
+  "categories": {
+    "restaurante": {
+      "profile": {
+        "title": "Restaurantes",
+        "meta": {
+          "description": "",
+          "ogTitle": "",
+          "ogDescription": "",
+          "ogImage": ""
+        }
+      },
+      "content": {
+        "headerTitle": "",
+        "headersubtitle": "",
+        "headerText": "",
+        "headerBackground": "",
+        "productsHeader": [
+          { "productHeaderName": "", "productHeaderImage": "" },
+          { "productHeaderName": "", "productHeaderImage": "" },
+          { "productHeaderName": "", "productHeaderImage": "" },
+          { "productHeaderName": "", "productHeaderImage": "" },
+          { "productHeaderName": "", "productHeaderImage": "" },
+          { "productHeaderName": "", "productHeaderImage": "" }
+        ],
+        "products": [
+          {
+            "productName": "",
+            "productDescription": "",
+            "quantity": [
+              { "value": 1, "label": "1 unidade", "inStock": true },
+              { "value": 2, "label": "2 unidades", "inStock": false },
+              { "value": 3, "label": "3 unidades", "inStock": true },
+              { "value": 4, "label": "4 unidades", "inStock": false },
+              { "value": 5, "label": "5 unidades", "inStock": true },
+              { "value": 6, "label": "6 unidades", "inStock": false }
+            ]
+          },
+          {
+            "productName": "",
+            "productDescription": "",
+            "quantity": [
+              { "value": 1, "label": "1 unidade", "inStock": true },
+              { "value": 2, "label": "2 unidades", "inStock": false },
+              { "value": 3, "label": "3 unidades", "inStock": true },
+              { "value": 4, "label": "4 unidades", "inStock": false },
+              { "value": 5, "label": "5 unidades", "inStock": true },
+              { "value": 6, "label": "6 unidades", "inStock": false }
+            ]
+          },
+          {
+            "productName": "",
+            "productDescription": "",
+            "quantity": [
+              { "value": 1, "label": "1 unidade", "inStock": true },
+              { "value": 2, "label": "2 unidades", "inStock": false },
+              { "value": 3, "label": "3 unidades", "inStock": true },
+              { "value": 4, "label": "4 unidades", "inStock": false },
+              { "value": 5, "label": "5 unidades", "inStock": true },
+              { "value": 6, "label": "6 unidades", "inStock": false }
+            ]
+          },
+          {
+            "productName": "",
+            "productDescription": "",
+            "quantity": [
+              { "value": 1, "label": "1 unidade", "inStock": true },
+              { "value": 2, "label": "2 unidades", "inStock": false },
+              { "value": 3, "label": "3 unidades", "inStock": true },
+              { "value": 4, "label": "4 unidades", "inStock": false },
+              { "value": 5, "label": "5 unidades", "inStock": true },
+              { "value": 6, "label": "6 unidades", "inStock": false }
+            ]
+          },
+          {
+            "productName": "",
+            "productDescription": "",
+            "quantity": [
+              { "value": 1, "label": "1 unidade", "inStock": true },
+              { "value": 2, "label": "2 unidades", "inStock": false },
+              { "value": 3, "label": "3 unidades", "inStock": true },
+              { "value": 4, "label": "4 unidades", "inStock": false },
+              { "value": 5, "label": "5 unidades", "inStock": true },
+              { "value": 6, "label": "6 unidades", "inStock": false }
+            ]
+          },
+          {
+            "productName": "",
+            "productDescription": "",
+            "quantity": [
+              { "value": 1, "label": "1 unidade", "inStock": true },
+              { "value": 2, "label": "2 unidades", "inStock": false },
+              { "value": 3, "label": "3 unidades", "inStock": true },
+              { "value": 4, "label": "4 unidades", "inStock": false },
+              { "value": 5, "label": "5 unidades", "inStock": true },
+              { "value": 6, "label": "6 unidades", "inStock": false }
+            ]
+          }
+        ],
+        "presentationProduct": ""
+      }
+    },
+
+    "lojasDeRoupas": {
+      "profile": {
+        "title": "Loja de Roupas",
+        "meta": {
+          "description": "",
+          "ogTitle": "",
+          "ogDescription": "",
+          "ogImage": ""
+        }
+      },
+      "content": {
+        "headerTitle": "",
+        "headersubtitle": "",
+        "headerText": "",
+        "headerBackground": "",
+        "productsHeader": [
+          { "productHeaderName": "", "productHeaderImage": "" },
+          { "productHeaderName": "", "productHeaderImage": "" },
+          { "productHeaderName": "", "productHeaderImage": "" },
+          { "productHeaderName": "", "productHeaderImage": "" },
+          { "productHeaderName": "", "productHeaderImage": "" },
+          { "productHeaderName": "", "productHeaderImage": "" }
+        ],
+        "products": [
+          {
+            "productName": "",
+            "productDescription": "",
+            "quantity": [
+              { "value": 1, "label": "1 unidade", "inStock": true },
+              { "value": 2, "label": "2 unidades", "inStock": false },
+              { "value": 3, "label": "3 unidades", "inStock": true },
+              { "value": 4, "label": "4 unidades", "inStock": false },
+              { "value": 5, "label": "5 unidades", "inStock": true },
+              { "value": 6, "label": "6 unidades", "inStock": false }
+            ]
+          },
+          {
+            "productName": "",
+            "productDescription": "",
+            "quantity": [
+              { "value": 1, "label": "1 unidade", "inStock": true },
+              { "value": 2, "label": "2 unidades", "inStock": false },
+              { "value": 3, "label": "3 unidades", "inStock": true },
+              { "value": 4, "label": "4 unidades", "inStock": false },
+              { "value": 5, "label": "5 unidades", "inStock": true },
+              { "value": 6, "label": "6 unidades", "inStock": false }
+            ]
+          },
+          {
+            "productName": "",
+            "productDescription": "",
+            "quantity": [
+              { "value": 1, "label": "1 unidade", "inStock": true },
+              { "value": 2, "label": "2 unidades", "inStock": false },
+              { "value": 3, "label": "3 unidades", "inStock": true },
+              { "value": 4, "label": "4 unidades", "inStock": false },
+              { "value": 5, "label": "5 unidades", "inStock": true },
+              { "value": 6, "label": "6 unidades", "inStock": false }
+            ]
+          },
+          {
+            "productName": "",
+            "productDescription": "",
+            "quantity": [
+              { "value": 1, "label": "1 unidade", "inStock": true },
+              { "value": 2, "label": "2 unidades", "inStock": false },
+              { "value": 3, "label": "3 unidades", "inStock": true },
+              { "value": 4, "label": "4 unidades", "inStock": false },
+              { "value": 5, "label": "5 unidades", "inStock": true },
+              { "value": 6, "label": "6 unidades", "inStock": false }
+            ]
+          },
+          {
+            "productName": "",
+            "productDescription": "",
+            "quantity": [
+              { "value": 1, "label": "1 unidade", "inStock": true },
+              { "value": 2, "label": "2 unidades", "inStock": false },
+              { "value": 3, "label": "3 unidades", "inStock": true },
+              { "value": 4, "label": "4 unidades", "inStock": false },
+              { "value": 5, "label": "5 unidades", "inStock": true },
+              { "value": 6, "label": "6 unidades", "inStock": false }
+            ]
+          },
+          {
+            "productName": "",
+            "productDescription": "",
+            "quantity": [
+              { "value": 1, "label": "1 unidade", "inStock": true },
+              { "value": 2, "label": "2 unidades", "inStock": false },
+              { "value": 3, "label": "3 unidades", "inStock": true },
+              { "value": 4, "label": "4 unidades", "inStock": false },
+              { "value": 5, "label": "5 unidades", "inStock": true },
+              { "value": 6, "label": "6 unidades", "inStock": false }
+            ]
+          }
+        ],
+        "presentationProduct": ""
+      }
+    },
+
+    "confeitarias": {
+      "profile": {
+        "title": "Confeitaria",
+        "meta": {
+          "description": "",
+          "ogTitle": "",
+          "ogDescription": "",
+          "ogImage": ""
+        }
+      },
+      "content": {
+        "headerTitle": "",
+        "headersubtitle": "",
+        "headerText": "",
+        "headerBackground": "",
+        "productsHeader": [
+          { "productHeaderName": "", "productHeaderImage": "" },
+          { "productHeaderName": "", "productHeaderImage": "" },
+          { "productHeaderName": "", "productHeaderImage": "" },
+          { "productHeaderName": "", "productHeaderImage": "" },
+          { "productHeaderName": "", "productHeaderImage": "" },
+          { "productHeaderName": "", "productHeaderImage": "" }
+        ],
+        "products": [
+          {
+            "productName": "",
+            "productDescription": "",
+            "quantity": [
+              { "value": 1, "label": "1 unidade", "inStock": true },
+              { "value": 2, "label": "2 unidades", "inStock": false },
+              { "value": 3, "label": "3 unidades", "inStock": true },
+              { "value": 4, "label": "4 unidades", "inStock": false },
+              { "value": 5, "label": "5 unidades", "inStock": true },
+              { "value": 6, "label": "6 unidades", "inStock": false }
+            ]
+          },
+          {
+            "productName": "",
+            "productDescription": "",
+            "quantity": [
+              { "value": 1, "label": "1 unidade", "inStock": true },
+              { "value": 2, "label": "2 unidades", "inStock": false },
+              { "value": 3, "label": "3 unidades", "inStock": true },
+              { "value": 4, "label": "4 unidades", "inStock": false },
+              { "value": 5, "label": "5 unidades", "inStock": true },
+              { "value": 6, "label": "6 unidades", "inStock": false }
+            ]
+          },
+          {
+            "productName": "",
+            "productDescription": "",
+            "quantity": [
+              { "value": 1, "label": "1 unidade", "inStock": true },
+              { "value": 2, "label": "2 unidades", "inStock": false },
+              { "value": 3, "label": "3 unidades", "inStock": true },
+              { "value": 4, "label": "4 unidades", "inStock": false },
+              { "value": 5, "label": "5 unidades", "inStock": true },
+              { "value": 6, "label": "6 unidades", "inStock": false }
+            ]
+          },
+          {
+            "productName": "",
+            "productDescription": "",
+            "quantity": [
+              { "value": 1, "label": "1 unidade", "inStock": true },
+              { "value": 2, "label": "2 unidades", "inStock": false },
+              { "value": 3, "label": "3 unidades", "inStock": true },
+              { "value": 4, "label": "4 unidades", "inStock": false },
+              { "value": 5, "label": "5 unidades", "inStock": true },
+              { "value": 6, "label": "6 unidades", "inStock": false }
+            ]
+          },
+          {
+            "productName": "",
+            "productDescription": "",
+            "quantity": [
+              { "value": 1, "label": "1 unidade", "inStock": true },
+              { "value": 2, "label": "2 unidades", "inStock": false },
+              { "value": 3, "label": "3 unidades", "inStock": true },
+              { "value": 4, "label": "4 unidades", "inStock": false },
+              { "value": 5, "label": "5 unidades", "inStock": true },
+              { "value": 6, "label": "6 unidades", "inStock": false }
+            ]
+          },
+          {
+            "productName": "",
+            "productDescription": "",
+            "quantity": [
+              { "value": 1, "label": "1 unidade", "inStock": true },
+              { "value": 2, "label": "2 unidades", "inStock": false },
+              { "value": 3, "label": "3 unidades", "inStock": true },
+              { "value": 4, "label": "4 unidades", "inStock": false },
+              { "value": 5, "label": "5 unidades", "inStock": true },
+              { "value": 6, "label": "6 unidades", "inStock": false }
+            ]
+          }
+        ],
+        "presentationProduct": ""
+      }
+    },
+
+    "academias": {
+      "profile": {
+        "title": "Academia",
+        "meta": {
+          "description": "",
+          "ogTitle": "",
+          "ogDescription": "",
+          "ogImage": ""
+        }
+      },
+      "content": {
+        "headerTitle": "",
+        "headersubtitle": "",
+        "headerText": "",
+        "headerBackground": "",
+        "productsHeader": [
+          { "productHeaderName": "", "productHeaderImage": "" },
+          { "productHeaderName": "", "productHeaderImage": "" },
+          { "productHeaderName": "", "productHeaderImage": "" },
+          { "productHeaderName": "", "productHeaderImage": "" },
+          { "productHeaderName": "", "productHeaderImage": "" },
+          { "productHeaderName": "", "productHeaderImage": "" }
+        ],
+        "products": [
+          {
+            "productName": "",
+            "productDescription": "",
+            "quantity": [
+              { "value": 1, "label": "1 unidade", "inStock": true },
+              { "value": 2, "label": "2 unidades", "inStock": false },
+              { "value": 3, "label": "3 unidades", "inStock": true },
+              { "value": 4, "label": "4 unidades", "inStock": false },
+              { "value": 5, "label": "5 unidades", "inStock": true },
+              { "value": 6, "label": "6 unidades", "inStock": false }
+            ]
+          },
+          {
+            "productName": "",
+            "productDescription": "",
+            "quantity": [
+              { "value": 1, "label": "1 unidade", "inStock": true },
+              { "value": 2, "label": "2 unidades", "inStock": false },
+              { "value": 3, "label": "3 unidades", "inStock": true },
+              { "value": 4, "label": "4 unidades", "inStock": false },
+              { "value": 5, "label": "5 unidades", "inStock": true },
+              { "value": 6, "label": "6 unidades", "inStock": false }
+            ]
+          },
+          {
+            "productName": "",
+            "productDescription": "",
+            "quantity": [
+              { "value": 1, "label": "1 unidade", "inStock": true },
+              { "value": 2, "label": "2 unidades", "inStock": false },
+              { "value": 3, "label": "3 unidades", "inStock": true },
+              { "value": 4, "label": "4 unidades", "inStock": false },
+              { "value": 5, "label": "5 unidades", "inStock": true },
+              { "value": 6, "label": "6 unidades", "inStock": false }
+            ]
+          },
+          {
+            "productName": "",
+            "productDescription": "",
+            "quantity": [
+              { "value": 1, "label": "1 unidade", "inStock": true },
+              { "value": 2, "label": "2 unidades", "inStock": false },
+              { "value": 3, "label": "3 unidades", "inStock": true },
+              { "value": 4, "label": "4 unidades", "inStock": false },
+              { "value": 5, "label": "5 unidades", "inStock": true },
+              { "value": 6, "label": "6 unidades", "inStock": false }
+            ]
+          },
+          {
+            "productName": "",
+            "productDescription": "",
+            "quantity": [
+              { "value": 1, "label": "1 unidade", "inStock": true },
+              { "value": 2, "label": "2 unidades", "inStock": false },
+              { "value": 3, "label": "3 unidades", "inStock": true },
+              { "value": 4, "label": "4 unidades", "inStock": false },
+              { "value": 5, "label": "5 unidades", "inStock": true },
+              { "value": 6, "label": "6 unidades", "inStock": false }
+            ]
+          },
+          {
+            "productName": "",
+            "productDescription": "",
+            "quantity": [
+              { "value": 1, "label": "1 unidade", "inStock": true },
+              { "value": 2, "label": "2 unidades", "inStock": false },
+              { "value": 3, "label": "3 unidades", "inStock": true },
+              { "value": 4, "label": "4 unidades", "inStock": false },
+              { "value": 5, "label": "5 unidades", "inStock": true },
+              { "value": 6, "label": "6 unidades", "inStock": false }
+            ]
+          }
+        ],
+        "presentationProduct": ""
+      }
+    },
+
+    "pizzarias": {
+      "profile": {
+        "title": "Pizzaria",
+        "meta": {
+          "description": "",
+          "ogTitle": "",
+          "ogDescription": "",
+          "ogImage": ""
+        }
+      },
+      "content": {
+        "headerTitle": "",
+        "headersubtitle": "",
+        "headerText": "",
+        "headerBackground": "",
+        "productsHeader": [
+          { "productHeaderName": "", "productHeaderImage": "" },
+          { "productHeaderName": "", "productHeaderImage": "" },
+          { "productHeaderName": "", "productHeaderImage": "" },
+          { "productHeaderName": "", "productHeaderImage": "" },
+          { "productHeaderName": "", "productHeaderImage": "" },
+          { "productHeaderName": "", "productHeaderImage": "" }
+        ],
+        "products": [
+          {
+            "productName": "",
+            "productDescription": "",
+            "quantity": [
+              { "value": 1, "label": "1 unidade", "inStock": true },
+              { "value": 2, "label": "2 unidades", "inStock": false },
+              { "value": 3, "label": "3 unidades", "inStock": true },
+              { "value": 4, "label": "4 unidades", "inStock": false },
+              { "value": 5, "label": "5 unidades", "inStock": true },
+              { "value": 6, "label": "6 unidades", "inStock": false }
+            ]
+          },
+          {
+            "productName": "",
+            "productDescription": "",
+            "quantity": [
+              { "value": 1, "label": "1 unidade", "inStock": true },
+              { "value": 2, "label": "2 unidades", "inStock": false },
+              { "value": 3, "label": "3 unidades", "inStock": true },
+              { "value": 4, "label": "4 unidades", "inStock": false },
+              { "value": 5, "label": "5 unidades", "inStock": true },
+              { "value": 6, "label": "6 unidades", "inStock": false }
+            ]
+          },
+          {
+            "productName": "",
+            "productDescription": "",
+            "quantity": [
+              { "value": 1, "label": "1 unidade", "inStock": true },
+              { "value": 2, "label": "2 unidades", "inStock": false },
+              { "value": 3, "label": "3 unidades", "inStock": true },
+              { "value": 4, "label": "4 unidades", "inStock": false },
+              { "value": 5, "label": "5 unidades", "inStock": true },
+              { "value": 6, "label": "6 unidades", "inStock": false }
+            ]
+          },
+          {
+            "productName": "",
+            "productDescription": "",
+            "quantity": [
+              { "value": 1, "label": "1 unidade", "inStock": true },
+              { "value": 2, "label": "2 unidades", "inStock": false },
+              { "value": 3, "label": "3 unidades", "inStock": true },
+              { "value": 4, "label": "4 unidades", "inStock": false },
+              { "value": 5, "label": "5 unidades", "inStock": true },
+              { "value": 6, "label": "6 unidades", "inStock": false }
+            ]
+          },
+          {
+            "productName": "",
+            "productDescription": "",
+            "quantity": [
+              { "value": 1, "label": "1 unidade", "inStock": true },
+              { "value": 2, "label": "2 unidades", "inStock": false },
+              { "value": 3, "label": "3 unidades", "inStock": true },
+              { "value": 4, "label": "4 unidades", "inStock": false },
+              { "value": 5, "label": "5 unidades", "inStock": true },
+              { "value": 6, "label": "6 unidades", "inStock": false }
+            ]
+          },
+          {
+            "productName": "",
+            "productDescription": "",
+            "quantity": [
+              { "value": 1, "label": "1 unidade", "inStock": true },
+              { "value": 2, "label": "2 unidades", "inStock": false },
+              { "value": 3, "label": "3 unidades", "inStock": true },
+              { "value": 4, "label": "4 unidades", "inStock": false },
+              { "value": 5, "label": "5 unidades", "inStock": true },
+              { "value": 6, "label": "6 unidades", "inStock": false }
+            ]
+          }
+        ],
+        "presentationProduct": ""
+      }
+    },
+
+    "baresEAdegas": {
+      "profile": {
+        "title": "Bares e Adegas",
+        "meta": {
+          "description": "",
+          "ogTitle": "",
+          "ogDescription": "",
+          "ogImage": ""
+        }
+      },
+      "content": {
+        "headerTitle": "",
+        "headersubtitle": "",
+        "headerText": "",
+        "headerBackground": "",
+        "productsHeader": [
+          { "productHeaderName": "", "productHeaderImage": "" },
+          { "productHeaderName": "", "productHeaderImage": "" },
+          { "productHeaderName": "", "productHeaderImage": "" },
+          { "productHeaderName": "", "productHeaderImage": "" },
+          { "productHeaderName": "", "productHeaderImage": "" },
+          { "productHeaderName": "", "productHeaderImage": "" }
+        ],
+        "products": [
+          {
+            "productName": "",
+            "productDescription": "",
+            "quantity": [
+              { "value": 1, "label": "1 unidade", "inStock": true },
+              { "value": 2, "label": "2 unidades", "inStock": false },
+              { "value": 3, "label": "3 unidades", "inStock": true },
+              { "value": 4, "label": "4 unidades", "inStock": false },
+              { "value": 5, "label": "5 unidades", "inStock": true },
+              { "value": 6, "label": "6 unidades", "inStock": false }
+            ]
+          },
+          {
+            "productName": "",
+            "productDescription": "",
+            "quantity": [
+              { "value": 1, "label": "1 unidade", "inStock": true },
+              { "value": 2, "label": "2 unidades", "inStock": false },
+              { "value": 3, "label": "3 unidades", "inStock": true },
+              { "value": 4, "label": "4 unidades", "inStock": false },
+              { "value": 5, "label": "5 unidades", "inStock": true },
+              { "value": 6, "label": "6 unidades", "inStock": false }
+            ]
+          },
+          {
+            "productName": "",
+            "productDescription": "",
+            "quantity": [
+              { "value": 1, "label": "1 unidade", "inStock": true },
+              { "value": 2, "label": "2 unidades", "inStock": false },
+              { "value": 3, "label": "3 unidades", "inStock": true },
+              { "value": 4, "label": "4 unidades", "inStock": false },
+              { "value": 5, "label": "5 unidades", "inStock": true },
+              { "value": 6, "label": "6 unidades", "inStock": false }
+            ]
+          },
+          {
+            "productName": "",
+            "productDescription": "",
+            "quantity": [
+              { "value": 1, "label": "1 unidade", "inStock": true },
+              { "value": 2, "label": "2 unidades", "inStock": false },
+              { "value": 3, "label": "3 unidades", "inStock": true },
+              { "value": 4, "label": "4 unidades", "inStock": false },
+              { "value": 5, "label": "5 unidades", "inStock": true },
+              { "value": 6, "label": "6 unidades", "inStock": false }
+            ]
+          },
+          {
+            "productName": "",
+            "productDescription": "",
+            "quantity": [
+              { "value": 1, "label": "1 unidade", "inStock": true },
+              { "value": 2, "label": "2 unidades", "inStock": false },
+              { "value": 3, "label": "3 unidades", "inStock": true },
+              { "value": 4, "label": "4 unidades", "inStock": false },
+              { "value": 5, "label": "5 unidades", "inStock": true },
+              { "value": 6, "label": "6 unidades", "inStock": false }
+            ]
+          },
+          {
+            "productName": "",
+            "productDescription": "",
+            "quantity": [
+              { "value": 1, "label": "1 unidade", "inStock": true },
+              { "value": 2, "label": "2 unidades", "inStock": false },
+              { "value": 3, "label": "3 unidades", "inStock": true },
+              { "value": 4, "label": "4 unidades", "inStock": false },
+              { "value": 5, "label": "5 unidades", "inStock": true },
+              { "value": 6, "label": "6 unidades", "inStock": false }
+            ]
+          }
+        ],
+        "presentationProduct": ""
+      }
+    },
+
+    "lanchonete": {
+      "profile": {
+        "title": "Lanchonete",
+        "meta": {
+          "description": "",
+          "ogTitle": "",
+          "ogDescription": "",
+          "ogImage": ""
+        }
+      },
+      "content": {
+        "headerTitle": "",
+        "headersubtitle": "",
+        "headerText": "",
+        "headerBackground": "",
+        "productsHeader": [
+          { "productHeaderName": "", "productHeaderImage": "" },
+          { "productHeaderName": "", "productHeaderImage": "" },
+          { "productHeaderName": "", "productHeaderImage": "" },
+          { "productHeaderName": "", "productHeaderImage": "" },
+          { "productHeaderName": "", "productHeaderImage": "" },
+          { "productHeaderName": "", "productHeaderImage": "" }
+        ],
+        "products": [
+          {
+            "productName": "",
+            "productDescription": "",
+            "quantity": [
+              { "value": 1, "label": "1 unidade", "inStock": true },
+              { "value": 2, "label": "2 unidades", "inStock": false },
+              { "value": 3, "label": "3 unidades", "inStock": true },
+              { "value": 4, "label": "4 unidades", "inStock": false },
+              { "value": 5, "label": "5 unidades", "inStock": true },
+              { "value": 6, "label": "6 unidades", "inStock": false }
+            ]
+          },
+          {
+            "productName": "",
+            "productDescription": "",
+            "quantity": [
+              { "value": 1, "label": "1 unidade", "inStock": true },
+              { "value": 2, "label": "2 unidades", "inStock": false },
+              { "value": 3, "label": "3 unidades", "inStock": true },
+              { "value": 4, "label": "4 unidades", "inStock": false },
+              { "value": 5, "label": "5 unidades", "inStock": true },
+              { "value": 6, "label": "6 unidades", "inStock": false }
+            ]
+          },
+          {
+            "productName": "",
+            "productDescription": "",
+            "quantity": [
+              { "value": 1, "label": "1 unidade", "inStock": true },
+              { "value": 2, "label": "2 unidades", "inStock": false },
+              { "value": 3, "label": "3 unidades", "inStock": true },
+              { "value": 4, "label": "4 unidades", "inStock": false },
+              { "value": 5, "label": "5 unidades", "inStock": true },
+              { "value": 6, "label": "6 unidades", "inStock": false }
+            ]
+          },
+          {
+            "productName": "",
+            "productDescription": "",
+            "quantity": [
+              { "value": 1, "label": "1 unidade", "inStock": true },
+              { "value": 2, "label": "2 unidades", "inStock": false },
+              { "value": 3, "label": "3 unidades", "inStock": true },
+              { "value": 4, "label": "4 unidades", "inStock": false },
+              { "value": 5, "label": "5 unidades", "inStock": true },
+              { "value": 6, "label": "6 unidades", "inStock": false }
+            ]
+          },
+          {
+            "productName": "",
+            "productDescription": "",
+            "quantity": [
+              { "value": 1, "label": "1 unidade", "inStock": true },
+              { "value": 2, "label": "2 unidades", "inStock": false },
+              { "value": 3, "label": "3 unidades", "inStock": true },
+              { "value": 4, "label": "4 unidades", "inStock": false },
+              { "value": 5, "label": "5 unidades", "inStock": true },
+              { "value": 6, "label": "6 unidades", "inStock": false }
+            ]
+          },
+          {
+            "productName": "",
+            "productDescription": "",
+            "quantity": [
+              { "value": 1, "label": "1 unidade", "inStock": true },
+              { "value": 2, "label": "2 unidades", "inStock": false },
+              { "value": 3, "label": "3 unidades", "inStock": true },
+              { "value": 4, "label": "4 unidades", "inStock": false },
+              { "value": 5, "label": "5 unidades", "inStock": true },
+              { "value": 6, "label": "6 unidades", "inStock": false }
+            ]
+          }
+        ],
+        "presentationProduct": ""
+      }
+    },
+
+    "mercearias": {
+      "profile": {
+        "title": "Mercearias",
+        "meta": {
+          "description": "",
+          "ogTitle": "",
+          "ogDescription": "",
+          "ogImage": ""
+        }
+      },
+      "content": {
+        "headerTitle": "",
+        "headersubtitle": "",
+        "headerText": "",
+        "headerBackground": "",
+        "productsHeader": [
+          { "productHeaderName": "", "productHeaderImage": "" },
+          { "productHeaderName": "", "productHeaderImage": "" },
+          { "productHeaderName": "", "productHeaderImage": "" },
+          { "productHeaderName": "", "productHeaderImage": "" },
+          { "productHeaderName": "", "productHeaderImage": "" },
+          { "productHeaderName": "", "productHeaderImage": "" }
+        ],
+        "products": [
+          {
+            "productName": "",
+            "productDescription": "",
+            "quantity": [
+              { "value": 1, "label": "1 unidade", "inStock": true },
+              { "value": 2, "label": "2 unidades", "inStock": false },
+              { "value": 3, "label": "3 unidades", "inStock": true },
+              { "value": 4, "label": "4 unidades", "inStock": false },
+              { "value": 5, "label": "5 unidades", "inStock": true },
+              { "value": 6, "label": "6 unidades", "inStock": false }
+            ]
+          },
+          {
+            "productName": "",
+            "productDescription": "",
+            "quantity": [
+              { "value": 1, "label": "1 unidade", "inStock": true },
+              { "value": 2, "label": "2 unidades", "inStock": false },
+              { "value": 3, "label": "3 unidades", "inStock": true },
+              { "value": 4, "label": "4 unidades", "inStock": false },
+              { "value": 5, "label": "5 unidades", "inStock": true },
+              { "value": 6, "label": "6 unidades", "inStock": false }
+            ]
+          },
+          {
+            "productName": "",
+            "productDescription": "",
+            "quantity": [
+              { "value": 1, "label": "1 unidade", "inStock": true },
+              { "value": 2, "label": "2 unidades", "inStock": false },
+              { "value": 3, "label": "3 unidades", "inStock": true },
+              { "value": 4, "label": "4 unidades", "inStock": false },
+              { "value": 5, "label": "5 unidades", "inStock": true },
+              { "value": 6, "label": "6 unidades", "inStock": false }
+            ]
+          },
+          {
+            "productName": "",
+            "productDescription": "",
+            "quantity": [
+              { "value": 1, "label": "1 unidade", "inStock": true },
+              { "value": 2, "label": "2 unidades", "inStock": false },
+              { "value": 3, "label": "3 unidades", "inStock": true },
+              { "value": 4, "label": "4 unidades", "inStock": false },
+              { "value": 5, "label": "5 unidades", "inStock": true },
+              { "value": 6, "label": "6 unidades", "inStock": false }
+            ]
+          },
+          {
+            "productName": "",
+            "productDescription": "",
+            "quantity": [
+              { "value": 1, "label": "1 unidade", "inStock": true },
+              { "value": 2, "label": "2 unidades", "inStock": false },
+              { "value": 3, "label": "3 unidades", "inStock": true },
+              { "value": 4, "label": "4 unidades", "inStock": false },
+              { "value": 5, "label": "5 unidades", "inStock": true },
+              { "value": 6, "label": "6 unidades", "inStock": false }
+            ]
+          },
+          {
+            "productName": "",
+            "productDescription": "",
+            "quantity": [
+              { "value": 1, "label": "1 unidade", "inStock": true },
+              { "value": 2, "label": "2 unidades", "inStock": false },
+              { "value": 3, "label": "3 unidades", "inStock": true },
+              { "value": 4, "label": "4 unidades", "inStock": false },
+              { "value": 5, "label": "5 unidades", "inStock": true },
+              { "value": 6, "label": "6 unidades", "inStock": false }
+            ]
+          }
+        ],
+        "presentationProduct": ""
+      }
+    }
+  }
+}
